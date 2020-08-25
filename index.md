@@ -1,4 +1,4 @@
-#LPC CALCULATOR
+# LPC CALCULATOR
 
 Late Payment Interest calculator for traders and small businesses.
 
