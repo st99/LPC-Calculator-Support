@@ -1,3 +1,7 @@
+layout: page
+title: "Privacy Policy"
+permalink: /privacy-policy/
+
 **Privacy Policy**
 
 Shubham Tayal built the LPC Calculator app as a Free app. This SERVICE is provided by Shubham Tayal at no cost and is intended for use as is.
